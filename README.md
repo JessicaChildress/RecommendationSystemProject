@@ -2,7 +2,8 @@
 
 ## Overview
 This project implements a content-based filtering recommendation system for streaming data, following a DataCamp tutorial. The knowledge gained here will be applied to develop a recommendation system for a personal shopper AI agent.
-📆 Completed in March 2025
+
+📆 Project completed 03-02-2025
 
 ## Features
 - Content-based filtering approach
